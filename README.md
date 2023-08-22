@@ -6,9 +6,8 @@ An Invoice creator project built with React. Add itemized items, configure quant
 ### Live Demo
 
 ### Screenshots
-<img src="../invoice_generator/public/assets/newinv1.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="../invoice_generator/public/assets/newinv2.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="../invoice_generator/public/assets/newinv3.png" style="max-width: 100px; width: 100%; height: auto;">
+![newinv1](https://github.com/naryanvarun94/invoice_generator/assets/96014993/9878df9f-cfc2-4d85-82a5-4995fcb2e11b)
+
 
 ### Installation
 
