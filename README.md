@@ -7,12 +7,13 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 ### Screenshots
 ![newinv1](https://github.com/naryanvarun94/invoice_generator/assets/96014993/9878df9f-cfc2-4d85-82a5-4995fcb2e11b)
+![newinv2](https://github.com/naryanvarun94/invoice_generator/assets/96014993/2ba41a27-b4bb-4f0c-8dd8-f475f68eb027)
+![newinv3](https://github.com/naryanvarun94/invoice_generator/assets/96014993/5a269e9a-ca00-4f45-a8d9-cf772b1a6193)
 
 
 ### Installation
 
 ```
-
 npm install
 
 npm start / npm run build
